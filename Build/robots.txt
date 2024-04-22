@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mpot05.github.io/IgniteThing//sitemap.xml
+Sitemap: https://mpot05.github.io/ignitething//sitemap.xml
